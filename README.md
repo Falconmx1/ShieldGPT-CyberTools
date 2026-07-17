@@ -46,6 +46,6 @@ shield-gpt/
    git clone https://github.com/Falconmx1/ShieldGPT-CyberTools.git
    cd ShieldGPT-CyberTools
 
-2. ** Ejecutar la aplicación**
+2. **Ejecutar la aplicación**
 ´´'bash
 python shield_gpt.py 
