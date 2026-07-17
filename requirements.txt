@@ -1,0 +1,6 @@
+# Lista de dependencias necesarias para el proyecto
+numpy
+pandas
+scikit-learn
+flask
+requests
