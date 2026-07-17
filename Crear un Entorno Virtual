@@ -1,0 +1,2 @@
+python -m venv venv
+source venv/bin/activate  # En Windows use `venv\Scripts\activate`
