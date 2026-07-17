@@ -32,3 +32,20 @@ shield-gpt/
 ├── 📋  guia_instalacion.md
 ├── 🐳  Dockerfile
 └── 🔄  gitignore
+
+
+## Requisitos Previos
+
+- Python 3.8 o superior
+- pip
+
+## Pasos de Instalación
+
+1. **Clonar el Repositorio**
+   ```bash
+   git clone https://github.com/Falconmx1/ShieldGPT-CyberTools.git
+   cd ShieldGPT-CyberTools
+
+2. ** Ejecutar la aplicación**
+´´'bash
+python shield_gpt.py 
